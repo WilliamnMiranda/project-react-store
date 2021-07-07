@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dd048ecd.chunk.css",
+    "main.js": "./static/js/main.1f07cb04.chunk.js",
+    "main.js.map": "./static/js/main.1f07cb04.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0396ec40.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0396ec40.js.map",
+    "static/js/2.4fc6c9f9.chunk.js": "./static/js/2.4fc6c9f9.chunk.js",
+    "static/js/2.4fc6c9f9.chunk.js.map": "./static/js/2.4fc6c9f9.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.dd048ecd.chunk.css.map": "./static/css/main.dd048ecd.chunk.css.map",
+    "static/js/2.4fc6c9f9.chunk.js.LICENSE.txt": "./static/js/2.4fc6c9f9.chunk.js.LICENSE.txt",
+    "static/media/banner3.0e45ea60.png": "./static/media/banner3.0e45ea60.png",
+    "static/media/cadeira.3679a9de.jpg": "./static/media/cadeira.3679a9de.jpg",
+    "static/media/cafeteira.b0d921a3.jpg": "./static/media/cafeteira.b0d921a3.jpg",
+    "static/media/dia.cb28c34a.png": "./static/media/dia.cb28c34a.png",
+    "static/media/geladeira.a963ff5f.webp": "./static/media/geladeira.a963ff5f.webp",
+    "static/media/iphone.0bbac7ef.jpg": "./static/media/iphone.0bbac7ef.jpg",
+    "static/media/mesa.7b4bb8d1.webp": "./static/media/mesa.7b4bb8d1.webp",
+    "static/media/microndas.a12d8f50.jpg": "./static/media/microndas.a12d8f50.jpg",
+    "static/media/mouse.98d50fb6.jpg": "./static/media/mouse.98d50fb6.jpg",
+    "static/media/placa de video.1fe5d3ee.jpg": "./static/media/placa de video.1fe5d3ee.jpg",
+    "static/media/sofa.2adafbea.webp": "./static/media/sofa.2adafbea.webp",
+    "static/media/teclado.dd8b3f85.jpg": "./static/media/teclado.dd8b3f85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0396ec40.js",
+    "static/js/2.4fc6c9f9.chunk.js",
+    "static/css/main.dd048ecd.chunk.css",
+    "static/js/main.1f07cb04.chunk.js"
+  ]
+}
